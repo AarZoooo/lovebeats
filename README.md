@@ -19,9 +19,9 @@ However, there is still room for new entrants, especially those that target nich
 The proposed app will have the following features:
 
 - Matching users based on their shared love of music
-- Ability to create and share music playlists
-- Ability to find concerts and events
 - Ability to chat with other users
+- Ability to share music playlists
+- Ability to put date reminders
 
 The app will be available on both Android and iOS platforms.
 
