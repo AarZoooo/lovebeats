@@ -33,11 +33,11 @@ Android Studio is the official IDE for developing Android apps. It is a powerful
 
 ## Backend Development
 
-The backend of the app will be developed using Firebase, Heroku, and DigitalOcean. Firebase is a platform developed by Google that provides a variety of services for developing and hosting mobile and web apps. Firebase offers a free tier that includes a database, authentication, and hosting.
+The backend of the app will be developed using Firebase. Firebase is a BaaS platform that provides a wide range of features and services, including authentication, real-time data synchronization, and push notifications. It also has a free tier that is sufficient for most small and medium-sized apps.
 
-Heroku is a cloud platform that allows you to deploy and scale your apps. Heroku offers a free tier that includes 500 free dyno hours per month.
+We will use Firebase to store user data, such as their name, email address, and music preferences. We will also use Firebase to send push notifications to users when they have new matches.
 
-DigitalOcean is a cloud platform that offers a variety of services, including virtual machines, storage, and networking. DigitalOcean offers a free tier that includes a 512MB droplet for 30 days.
+We will not be using Heroku or DigitalOcean for the backend of our app. We believe that Firebase is a more comprehensive and cost-effective solution for our needs.
 
 ## Testing and Deployment
 
